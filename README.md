@@ -8,6 +8,6 @@ I am Gerardo Socias Jr and I love coding and I am a graduate with a course of Ba
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=gerardosocias29&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
