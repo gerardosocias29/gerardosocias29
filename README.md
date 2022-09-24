@@ -1,6 +1,6 @@
 <p align="justify"> 
 Hi 🖐️ friends, welcome to my github profile
-I am Gerardo Socias Jr and I love coding and I am a graduate with a course of Bachelor of Science in Computer Science.
+I am Gerardo Socias Jr and a graduate of Bachelor of Science in Computer Science course.
 </p>
 
 <details>
