@@ -3,8 +3,9 @@
 </p>
 
 <p align="justify"> 
-Hi 🖐️ friends, welcome to my github profile
-I am Gerardo Socias Jr and I love coding and I am a graduate of Bachelor of Science in Computer Science.
+Hi 🖐️ friends, welcome to my github profile<br>
+I am Gerardo Socias Jr.<br>
+Passionate about Web Development, I possess strong analytical and thinking skills, and have a genuine love for coding. I am constantly exploring new technologies and platforms, and I am always eager to learn new things. One of my main goals is to constantly improve my talent and skills in the field of web development.
 </p>
 
 <p align="left">
