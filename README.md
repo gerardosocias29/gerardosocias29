@@ -28,7 +28,7 @@ I code with :  👇
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gerardo's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=gerardosocias29&bg_color=fff&color=000&line=00E676&point=000&hide_border=true%22" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gerardo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gerardosocias29&bg_color=fff&color=000&line=00E676&point=000&hide_border=true%22" /></a>
 </details>
 
 ## GitHub Profile Trophy 🏆
